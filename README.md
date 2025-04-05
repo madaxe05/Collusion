@@ -16,6 +16,13 @@ The **Collision Game** is a fast-paced, interactive game built using **Python** 
 - **Python** (Core Logic)
 - **Pygame** (Game Development Framework)
 
+## 📂 Screenshots
+
+Here are some screenshots of the game in action:
+
+1. ![Game Screenshot 1](image1.png)
+2. ![Game Screenshot 2](image2.png)
+
 ## 📂 Project Structure
 ```
 📦 Collusion Game

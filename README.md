@@ -17,7 +17,6 @@ The **Collision Game** is a fast-paced, interactive game built using **Python** 
 - **Pygame** (Game Development Framework)
 
 ## 📂 Project Structure
-📦 60-Second-Collision-Challenge ├── 📄 main.py # Main script with Pygame game logic ├── 📄 README.md # Project documentation └── 📄 collision-sound.wav # Sound file for collision effect
 ```
 📦 Collusion Game
 ├── 📄 main.py                        # Main script with Pygame game logic
@@ -46,11 +45,11 @@ The **Collision Game** is a fast-paced, interactive game built using **Python** 
 
 **🎮 How to Play**
 
--Arrow Keys: Move the player (red square).
--Collide with the target (blue square) to earn points.
--Avoid obstacles (green rectangles) as they block your movement.
--Game Over: The game ends when the timer reaches 0 or when the score reaches a winning threshold (10+ points).
--Restart: Press SPACE to start a new game or Q to quit.
+-Arrow Keys: Move the player (red square).<br>
+-Collide with the target (blue square) to earn points.<br>
+-Avoid obstacles (green rectangles) as they block your movement.<br>
+-Game Over: The game ends when the timer reaches 0 or when the score reaches a winning threshold (10+ points).<br>
+-Restart: Press SPACE to start a new game or Q to quit.<br>
 
 
 ---

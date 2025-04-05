@@ -20,7 +20,7 @@ yellow = (255, 255, 0)
 
 # Create the screen
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('60-Second Collision Challenge')
+pygame.display.set_caption('Collusion Game')
 
 # Initialize sound
 pygame.mixer.init()
